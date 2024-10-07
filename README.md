@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm passionate about turning data into powerful insights, 
 I'm a Data Analyst, Backend Developer, and Database Administrator with a strong focus on:
 
 - 🧠 **Data Science**: Building predictive models, working with machine learning algorithms, and turning data into actionable insights.
-- 📊 **Data Analysis**: Leveraging SQL, Python, and Power BI to uncover trends and provide data-driven recommendations.
+- 📊 **Data Analysis**: Leveraging SQL, Python, and Power BI to uncover trends and provide data-driven solutions.
 - 🗄️ **Database Administration**: Skilled in PostgreSQL, MySQL, Microsoft SQL, and Cloud databases (Azure/AWS). I ensure your data is secure, scalable, and accessible.
 - 💻 **Backend Development**: Creating APIs and robust backends using Python (Flask, Django), Node.js, and integrating with modern databases.
 
