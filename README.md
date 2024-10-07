@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafael De Santis!
 
-Welcome to my GitHub! I'm passionate about turning data into powerful insights, building efficient backend systems, and managing robust databases. With my expertise across Data Science, Data Analysis, Database Administration, and Backend Development, I aim to deliver solutions that drive meaningful outcomes.
+Welcome to my GitHub! I specialize in turning complex data into actionable insights, building reliable backend systems, and managing databases to ensure seamless operations. Whether you're looking to optimize processes, uncover hidden patterns in your data, or develop scalable and efficient backend architectures, I offer the expertise to deliver solutions that directly address your business challenges and drive results.
 
 ## 🚀 About Me
 
