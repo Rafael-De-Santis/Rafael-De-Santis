@@ -23,6 +23,6 @@ I'm a Data Analyst, Backend Developer, and Database Administrator with a strong 
 
 If you're looking for someone who can help you manage your business with data-driven solutions, build efficient back-end systems, or administer your databases, feel free to reach out!
 
-- ✉️ **Email**: desants.data@gmail.com
+- ✉️ **Email**: desantis.data@gmail.com
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/rafael-desantis/)
 - 🌐 [**Portfolio**](https://rafael-de-santis.github.io/rdsweb/)
