@@ -26,7 +26,3 @@ If you're looking for someone who can help you manage your business with data-dr
 - ✉️ **Email**: desants.data@gmail.com
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/rafael-desantis/)
 - 🌐 [**Portfolio**](https://rafael-de-santis.github.io/rdsweb/)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-desantis&show_icons=true&theme=dark&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-desantis&layout=compact&theme=dark)
